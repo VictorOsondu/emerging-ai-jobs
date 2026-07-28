@@ -34,7 +34,6 @@ jobs:
         with:
           args: >-
             --offline
-            --root-dir "$(pwd)"
             --no-progress
             "./**/*.md"
           fail: true
