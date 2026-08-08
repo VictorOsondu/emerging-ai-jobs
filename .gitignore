@@ -1,0 +1,16 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Tooling
+node_modules/
+*.log
+.env
+
+# Local working files (not published)
+.research/
