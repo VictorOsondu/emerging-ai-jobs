@@ -1,3 +1,18 @@
+---
+id: ai-transformation-manager
+title: AI Transformation Manager
+profile_type: role-profile
+role_origin: hybrid
+operating_model: ai-augmented
+maturity: formalising
+confidence: medium
+reviewed_at: 2026-08-08
+evidence:
+  - TRANS-01
+  - TRANS-02
+  - TRANS-03
+---
+
 # AI Transformation Manager
 
 ## Role Summary
@@ -8,9 +23,11 @@ An AI Transformation Manager turns AI ambition into a managed portfolio of use c
 
 Many organisations have executive AI interest but fragmented delivery. They need someone who can connect strategy, operations, technology, governance, and behaviour change without reducing adoption to tool rollout.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: Hybrid
+- Operating model: AI-augmented
+- Maturity: Formalising
 - Confidence: Medium
 - Source signal: Consulting and enterprise postings show recurring responsibilities around AI portfolio shaping, stakeholder orchestration, delivery oversight, and value realisation.
 
@@ -84,6 +101,7 @@ Many organisations have executive AI interest but fragmented delivery. They need
 
 ## Public Signals
 
-- WGSN currently advertises an `AI Transformation Manager` responsible for a cross-functional portfolio, operating rhythm, governance, value tracking, adoption, and board reporting ([TRANS-01](../sources.md#evidence-register)).
+- A current Capgemini posting uses an AI governance title but describes transformation work across portfolio definition, delivery orchestration, value realisation, risk, and executive reporting ([TRANS-03](../sources.md#evidence-register)).
+- Earlier WGSN and Pay.UK postings are retained as closed historical observations of the exact or closely matching title ([TRANS-01 and TRANS-02](../sources.md#evidence-register)).
 - GitHub's published programme-lead responsibilities independently support roadmap ownership, tool and policy coordination, change management, adoption metrics, and business-value reporting ([GitHub references](../sources.md#references)).
-- One exact-title posting supports `Medium` confidence, not a claim that the title is standard across employers.
+- Current adjacent-title evidence plus two historical title observations support `Medium` confidence, not a claim that the title is standard across employers.

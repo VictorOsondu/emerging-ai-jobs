@@ -10,6 +10,17 @@ assignees: ""
 
 Suggested title:
 
+## Profile type
+
+Is this an AI-native/hybrid role or an established occupation whose work is evolving?
+
+## Classification
+
+- Role origin:
+- Operating model:
+- Market maturity:
+- Evidence confidence:
+
 ## Why it belongs
 
 What is new or changing about this role?
@@ -21,6 +32,10 @@ Link to job postings, standards, reports, public company pages, or credible prac
 ## Responsibilities
 
 What does this person actually do?
+
+## Work evolution
+
+If this is an established occupation, which tasks are delegated, which become more important, and where does human accountability remain?
 
 ## Adjacent roles
 

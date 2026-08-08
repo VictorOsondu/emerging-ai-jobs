@@ -1,3 +1,17 @@
+---
+id: human-ai-workflow-designer
+title: Human-AI Workflow Designer
+profile_type: role-profile
+role_origin: ai-native
+operating_model: ai-first
+maturity: emerging
+confidence: early-signal
+reviewed_at: 2026-08-08
+evidence:
+  - WORKFLOW-01
+  - WORKFLOW-02
+---
+
 # Human-AI Workflow Designer
 
 ## Role Summary
@@ -8,9 +22,11 @@ A Human-AI Workflow Designer redesigns tasks so humans and AI systems each do th
 
 AI is changing workflows, not just individual tasks. Organisations need people who can decide where AI should assist, where humans must review, and how work should move between tools, people, and automated steps.
 
-## Maturity
+## Classification
 
-- Status: Emerging
+- Role origin: AI-native
+- Operating model: AI-first
+- Maturity: Emerging
 - Confidence: Early signal
 - Source signal: The title is not yet common, but the work appears across service design, operations, automation, AI product, and transformation roles.
 

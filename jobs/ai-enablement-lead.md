@@ -1,3 +1,20 @@
+---
+id: ai-enablement-lead
+title: AI Enablement Lead
+profile_type: role-profile
+role_origin: hybrid
+operating_model: ai-augmented
+maturity: formalising
+confidence: high
+reviewed_at: 2026-08-08
+evidence:
+  - ENABLE-01
+  - ENABLE-02
+  - ENABLE-03
+  - ENABLE-04
+  - ENABLE-05
+---
+
 # AI Enablement Lead
 
 ## Role Summary
@@ -8,9 +25,11 @@ An AI Enablement Lead helps people adopt AI safely and usefully through training
 
 Tool access alone does not create adoption. Organisations need role-relevant examples, safe-use habits, peer support, and a way to convert early wins into repeatable practice.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: Hybrid
+- Operating model: AI-augmented
+- Maturity: Formalising
 - Confidence: High
 - Source signal: Multiple current exact-title postings plus a first-party organisational programme description.
 
@@ -84,5 +103,6 @@ Tool access alone does not create adoption. Organisations need role-relevant exa
 
 ## Public Signals
 
-- HSBC and IANS currently advertise `AI Enablement Lead` roles spanning enterprise capability building, workflow adoption, implementation, change management, and governance coordination ([ENABLE-01 and ENABLE-02](../sources.md#evidence-register)).
+- Mesh and Ridgeline currently advertise AI enablement roles spanning enterprise capability building, workflow adoption, implementation, change management, and workforce transformation ([ENABLE-03 and ENABLE-05](../sources.md#evidence-register)).
+- Earlier HSBC, IANS, and Tanium postings are retained as closed historical observations ([ENABLE-01, ENABLE-02, and ENABLE-04](../sources.md#evidence-register)).
 - GitHub's published programme describes the supporting responsibility bundle: learning pathways, office hours, advocates, communities, policy coordination, adoption measurement, and success-story amplification ([GitHub references](../sources.md#references)).

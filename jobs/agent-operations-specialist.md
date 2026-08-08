@@ -1,3 +1,16 @@
+---
+id: agent-operations-specialist
+title: Agent Operations Specialist
+profile_type: role-profile
+role_origin: ai-native
+operating_model: agent-supervised
+maturity: emerging
+confidence: medium
+reviewed_at: 2026-08-08
+evidence:
+  - AGENT-01
+---
+
 # Agent Operations Specialist
 
 ## Role Summary
@@ -8,9 +21,11 @@ An Agent Operations Specialist keeps AI agent workflows useful after deployment.
 
 AI agents are moving from demos into workflow automation. Once agents touch real operations, someone has to own reliability, handoffs, exceptions, cost, and human oversight.
 
-## Maturity
+## Classification
 
-- Status: Emerging
+- Role origin: AI-native
+- Operating model: Agent-supervised
+- Maturity: Emerging
 - Confidence: Medium
 - Source signal: One current exact-title posting plus related responsibilities in AI operations, product operations, and automation roles.
 

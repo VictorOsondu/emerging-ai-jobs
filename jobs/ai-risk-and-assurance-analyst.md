@@ -1,3 +1,17 @@
+---
+id: ai-risk-and-assurance-analyst
+title: AI Risk and Assurance Analyst
+profile_type: role-profile
+role_origin: hybrid
+operating_model: ai-augmented
+maturity: formalising
+confidence: medium
+reviewed_at: 2026-08-08
+evidence:
+  - ASSURE-01
+  - ASSURE-02
+---
+
 # AI Risk and Assurance Analyst
 
 ## Role Summary
@@ -8,9 +22,11 @@ An AI Risk and Assurance Analyst reviews AI systems, controls, documentation, te
 
 AI governance creates evidence requirements: inventories, model cards, risk assessments, evaluation records, human-review controls, vendor documentation, and incident histories. Assurance work turns those artefacts into confidence or findings.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: Hybrid
+- Operating model: AI-augmented
+- Maturity: Formalising
 - Confidence: Medium
 - Source signal: Responsibilities are visible across AI governance, model risk, audit, compliance, and responsible AI roles.
 
@@ -81,5 +97,5 @@ AI governance creates evidence requirements: inventories, model cards, risk asse
 
 ## Public Signals
 
-- EY's current responsible-AI role covers AI reviews, risk assessments, control evidence, accountability documentation, and remediation ([ASSURE-01](../sources.md#evidence-register)).
+- An EY responsible-AI role observed in July 2026 covered AI reviews, risk assessments, control evidence, accountability documentation, and remediation; the posting has since closed ([ASSURE-01](../sources.md#evidence-register)).
 - UK government-commissioned market research identifies AI assurance leads, consultants, managers, and related role families, while noting that job descriptions vary ([ASSURE-02](../sources.md#evidence-register)).

@@ -1,15 +1,15 @@
 # Emerging AI Jobs
 
-![Last updated](https://img.shields.io/badge/last%20updated-2026--07--25-00d4aa)
-![Status](https://img.shields.io/badge/status-lean%20launch-1a1a2e)
+![Last updated](https://img.shields.io/badge/last%20updated-2026--08--08-00d4aa)
+![Status](https://img.shields.io/badge/status-evolving%20catalogue-1a1a2e)
 ![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
 
-A curated catalogue of AI-era roles that are new, changing fast, or only just becoming formal job titles.
+A curated catalogue of AI-native roles and established occupations being redesigned around AI.
 
-This is not a jobs board, salary tracker, or hype list. It documents what these roles appear to do, what tools and skills they use, what existing roles they sit near, and how strong the public signal is.
+This is not a jobs board, salary tracker, or hype list. It documents new responsibility bundles, changing workflows, human accountability, transition paths, and the strength of the public evidence.
 
-Last reviewed: 2026-07-25. See [sources and verification notes](sources.md).
+Last reviewed: 2026-08-08. See the [catalogue methodology](METHODOLOGY.md) and [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -29,17 +29,33 @@ Last reviewed: 2026-07-25. See [sources and verification notes](sources.md).
 
 ## How to read the catalogue
 
-Every role has:
+The catalogue has two tracks:
 
-- responsibilities
-- common tools
-- skills
-- adjacent roles
-- example outputs
-- what the role is not
-- source signals
-- maturity status
-- confidence level
+- **AI-native and hybrid roles** that exist to build, operate, govern, or improve AI systems.
+- **Evolving occupations** whose established workflows are being materially redesigned around AI.
+
+Every profile records:
+
+- role origin
+- operating model
+- market maturity
+- evidence confidence
+- responsibilities or task shifts
+- human accountability
+- public source signals
+
+### Role Origin
+
+- **Existing** — the occupation predates widespread AI adoption.
+- **Hybrid** — an existing discipline now has a distinct AI-specific specialism.
+- **AI-native** — the responsibility bundle primarily exists because AI systems exist.
+
+### Operating Model
+
+- **AI-assisted** — AI is an optional aid inside a familiar workflow.
+- **AI-augmented** — AI performs material parts of the workflow.
+- **AI-first** — work is designed around AI delegation, verification, and escalation.
+- **Agent-supervised** — people oversee semi-autonomous systems, exceptions, and outcomes.
 
 ### Maturity status
 
@@ -49,24 +65,38 @@ Every role has:
 
 ### Confidence level
 
-- **High** — multiple public job postings or standards support the role shape.
-- **Medium** — clear signals exist, but title and scope are still inconsistent.
-- **Early signal** — plausible role, but mostly visible in founder/operator writing or niche teams.
+- **High** — at least two independent current primary signals support the role shape.
+- **Medium** — one current primary signal plus independent support, or several materially inconsistent signals.
+- **Early signal** — credible evidence exists, but hiring or adoption is not recurrent.
+
+These dimensions are independent. Read [METHODOLOGY.md](METHODOLOGY.md) for inclusion rules, evidence handling, scope, and review cadence.
 
 ## Role catalogue
 
-| Role | Maturity | Confidence | Profile |
-| --- | --- | --- | --- |
-| AI Governance Lead | Formalising | High | [View](jobs/ai-governance-lead.md) |
-| Prompt Engineer | Formalising | High | [View](jobs/prompt-engineer.md) |
-| AI Transformation Manager | Formalising | Medium | [View](jobs/ai-transformation-manager.md) |
-| Agent Operations Specialist | Emerging | Medium | [View](jobs/agent-operations-specialist.md) |
-| AI Product Operations Manager | Formalising | Medium | [View](jobs/ai-product-operations-manager.md) |
-| AI Risk and Assurance Analyst | Formalising | Medium | [View](jobs/ai-risk-and-assurance-analyst.md) |
-| AI Enablement Lead | Formalising | High | [View](jobs/ai-enablement-lead.md) |
-| Human-AI Workflow Designer | Emerging | Early signal | [View](jobs/human-ai-workflow-designer.md) |
-| Synthetic Data Specialist | Emerging | Medium | [View](jobs/synthetic-data-specialist.md) |
-| AI Evaluation Specialist | Formalising | High | [View](jobs/ai-evaluation-specialist.md) |
+<!-- catalogue:start -->
+### AI-Native and Hybrid Roles
+
+| Role | Origin | Operating model | Maturity | Confidence | Profile |
+| --- | --- | --- | --- | --- | --- |
+| Agent Operations Specialist | AI-native | Agent-supervised | Emerging | Medium | [View](jobs/agent-operations-specialist.md) |
+| AI Enablement Lead | Hybrid | AI-augmented | Formalising | High | [View](jobs/ai-enablement-lead.md) |
+| AI Evaluation Specialist | AI-native | AI-first | Formalising | High | [View](jobs/ai-evaluation-specialist.md) |
+| AI Governance Lead | Hybrid | AI-augmented | Formalising | High | [View](jobs/ai-governance-lead.md) |
+| AI Product Operations Manager | Hybrid | AI-first | Formalising | Medium | [View](jobs/ai-product-operations-manager.md) |
+| AI Risk and Assurance Analyst | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-risk-and-assurance-analyst.md) |
+| AI Transformation Manager | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-transformation-manager.md) |
+| Human-AI Workflow Designer | AI-native | AI-first | Emerging | Early signal | [View](jobs/human-ai-workflow-designer.md) |
+| Prompt Engineer | AI-native | AI-first | Formalising | High | [View](jobs/prompt-engineer.md) |
+| Synthetic Data Specialist | Hybrid | AI-first | Emerging | Medium | [View](jobs/synthetic-data-specialist.md) |
+
+### Evolving Occupations
+
+| Role | Origin | Operating model | Maturity | Confidence | Profile |
+| --- | --- | --- | --- | --- | --- |
+| Customer Support Specialist | Existing | Agent-supervised | Formalising | High | [View](evolutions/customer-support-specialist-ai-first.md) |
+| Research Analyst | Existing | AI-augmented | Formalising | Medium | [View](evolutions/research-analyst-ai-augmented.md) |
+| Software Engineer | Existing | AI-first | Formalising | High | [View](evolutions/software-engineer-ai-first.md) |
+<!-- catalogue:end -->
 
 ## Emerging job playbooks
 
@@ -82,7 +112,7 @@ See [playbooks/README.md](playbooks/README.md) for the playbook standard.
 
 ## Contribution standard
 
-Use [templates/job-profile-template.md](templates/job-profile-template.md) for new roles and [templates/role-comparison-template.md](templates/role-comparison-template.md) when two titles are being confused.
+Use [templates/job-profile-template.md](templates/job-profile-template.md) for AI-native or hybrid roles, [templates/occupation-evolution-template.md](templates/occupation-evolution-template.md) for changing established occupations, and [templates/role-comparison-template.md](templates/role-comparison-template.md) when titles or responsibility bundles are being confused.
 
 A role should not be added because it sounds plausible. It needs at least one public signal:
 
@@ -93,8 +123,10 @@ A role should not be added because it sounds plausible. It needs at least one pu
 - credible practitioner write-up
 - repeated evidence across adjacent job descriptions
 
+An occupation-evolution profile must also show material task redistribution, redesigned workflows, new human oversight, or changed performance expectations. Routine use of an AI assistant is not enough.
+
 ## Scope
 
-This repository is public career and workforce mapping. It is not career advice, hiring advice, immigration advice, compensation advice, legal advice, or a guarantee that a role title will persist.
+This repository is public career and workforce mapping. It is not career advice, hiring advice, immigration advice, compensation advice, legal advice, or a guarantee that a role title or operating model will persist.
 
 Role boundaries will change quickly. Treat each profile as a dated market snapshot, not a permanent definition.

@@ -1,3 +1,18 @@
+---
+id: prompt-engineer
+title: Prompt Engineer
+profile_type: role-profile
+role_origin: ai-native
+operating_model: ai-first
+maturity: formalising
+confidence: high
+reviewed_at: 2026-08-08
+evidence:
+  - PROMPT-01
+  - PROMPT-02
+  - PROMPT-03
+---
+
 # Prompt Engineer
 
 ## Role Summary
@@ -8,9 +23,11 @@ A Prompt Engineer designs, tests, documents, and improves instructions and inter
 
 Language models made natural-language instructions part of the production surface. Early demand focused on prompt writing. The role is now formalising into a broader skill set around model behaviour, workflow design, evaluation, and AI product quality.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: AI-native
+- Operating model: AI-first
+- Maturity: Formalising
 - Confidence: High
 - Source signal: Multiple current exact-title postings, with responsibilities increasingly connected to evaluation, engineering, and workflows.
 
@@ -81,5 +98,6 @@ Language models made natural-language instructions part of the production surfac
 
 ## Public Signals
 
-- Accenture and MCI currently advertise exact-title roles covering prompt design, testing, refinement, agents, and workflow integration ([PROMPT-01 and PROMPT-02](../sources.md#evidence-register)).
+- MCI and Nabla currently advertise exact-title roles covering prompt design, testing, versioning, evaluation, agents, and workflow integration ([PROMPT-02 and PROMPT-03](../sources.md#evidence-register)).
+- An earlier Accenture source could not be reverified and is retained as an unavailable historical observation rather than current evidence ([PROMPT-01](../sources.md#evidence-register)).
 - The title is therefore a strong current signal, although production versions increasingly combine prompting with evaluation, retrieval, engineering, or workflow design.

@@ -22,8 +22,29 @@ Contributions are welcome when they improve role clarity, source quality, or pra
 
 - Plain, specific, UK English.
 - Mark maturity and confidence honestly.
+- Classify role origin and operating model separately from market maturity.
 - Prefer primary sources: company career pages, standards, regulators, public documentation, and professional bodies.
 - Use public or synthetic examples only.
+- Record evidence metadata in `data/evidence.json`; do not describe a closed or unavailable posting as current.
+- Use the occupation-evolution template only when AI materially redistributes tasks, oversight, or performance expectations.
 - Open an issue before adding a large new category or playbook.
+
+Read [METHODOLOGY.md](METHODOLOGY.md) before proposing a profile.
+
+## Local Checks
+
+After changing a profile or evidence record, regenerate the catalogue and run validation:
+
+```sh
+node scripts/render-catalogue.mjs
+node scripts/validate-catalogue.mjs
+npx --yes markdownlint-cli2@0.23.1
+```
+
+The external source check is intended for scheduled maintenance because job sites can rate-limit automated requests:
+
+```sh
+node scripts/check-evidence-links.mjs
+```
 
 By contributing, you agree your contribution is licensed under CC BY 4.0, in line with the [LICENSE](LICENSE).

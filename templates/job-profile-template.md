@@ -1,3 +1,16 @@
+---
+id: example-role
+title: Example Role
+profile_type: role-profile
+role_origin: ai-native
+operating_model: ai-first
+maturity: emerging
+confidence: early-signal
+reviewed_at: YYYY-MM-DD
+evidence:
+  - EXAMPLE-01
+---
+
 # Job Profile Template
 
 Use this template for new role profiles.
@@ -10,9 +23,11 @@ One paragraph explaining the role in plain language.
 
 What changed in AI, regulation, tooling, or organisational practice to make the role visible?
 
-## Maturity
+## Classification
 
-- Status:
+- Role origin:
+- Operating model:
+- Maturity:
 - Confidence:
 - Source signal:
 

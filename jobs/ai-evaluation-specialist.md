@@ -1,3 +1,18 @@
+---
+id: ai-evaluation-specialist
+title: AI Evaluation Specialist
+profile_type: role-profile
+role_origin: ai-native
+operating_model: ai-first
+maturity: formalising
+confidence: high
+reviewed_at: 2026-08-08
+evidence:
+  - EVAL-01
+  - EVAL-02
+  - EVAL-03
+---
+
 # AI Evaluation Specialist
 
 ## Role Summary
@@ -8,9 +23,11 @@ An AI Evaluation Specialist builds the quality and safety layer for AI systems: 
 
 LLM and agent systems can fail subtly. Teams need repeatable ways to tell whether a change improved or degraded accuracy, safety, grounding, and usefulness.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: AI-native
+- Operating model: AI-first
+- Maturity: Formalising
 - Confidence: High
 - Source signal: Public job postings and specialist hiring pages increasingly describe evaluation, rubrics, model-response review, red-teaming, monitoring, and quality systems.
 
@@ -87,5 +104,6 @@ LLM and agent systems can fail subtly. Teams need repeatable ways to tell whethe
 
 ## Public Signals
 
-- Spotify and PingWind currently advertise specialist roles covering rubrics, ground-truth datasets, structured evaluations, scenario tests, issue evidence, and launch or release decisions ([EVAL-01 and EVAL-02](../sources.md#evidence-register)).
+- Spotify and Notion currently advertise specialist roles covering rubrics, datasets, structured evaluations, production review, regressions, and launch decisions ([EVAL-01 and EVAL-03](../sources.md#evidence-register)).
+- PingWind's earlier validation-specialist posting is retained as a closed historical observation ([EVAL-02](../sources.md#evidence-register)).
 - Contractor response-rating roles also exist, but they are a narrower path than production evaluation and quality-system ownership.

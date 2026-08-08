@@ -1,3 +1,17 @@
+---
+id: synthetic-data-specialist
+title: Synthetic Data Specialist
+profile_type: role-profile
+role_origin: hybrid
+operating_model: ai-first
+maturity: emerging
+confidence: medium
+reviewed_at: 2026-08-08
+evidence:
+  - SYNTH-01
+  - SYNTH-02
+---
+
 # Synthetic Data Specialist
 
 ## Role Summary
@@ -8,9 +22,11 @@ A Synthetic Data Specialist creates, evaluates, governs, and documents artificia
 
 AI teams need data that is useful, safe, representative, and available. Synthetic data can help with privacy constraints, rare scenarios, testing, and simulation, but only if quality and risk are managed carefully.
 
-## Maturity
+## Classification
 
-- Status: Emerging
+- Role origin: Hybrid
+- Operating model: AI-first
+- Maturity: Emerging
 - Confidence: Medium
 - Source signal: Specialist synthetic-data work is clearly hired for, but current titles cluster around engineering and research rather than one stable specialist title.
 
@@ -81,5 +97,6 @@ AI teams need data that is useful, safe, representative, and available. Syntheti
 
 ## Public Signals
 
-- Lila Sciences and Hyphen Connect currently advertise synthetic-data engineering roles covering generation pipelines, quality scoring, evaluation, standards, documentation, and bias mitigation ([SYNTH-01 and SYNTH-02](../sources.md#evidence-register)).
+- Hyphen Connect currently advertises a synthetic-data engineering role covering generation pipelines, quality scoring, and bias mitigation ([SYNTH-02](../sources.md#evidence-register)).
+- Lila Sciences' earlier research-engineering posting is retained as a closed historical observation covering synthetic-data strategy, evaluation, standards, and documentation ([SYNTH-01](../sources.md#evidence-register)).
 - The responsibility bundle is real, but `Synthetic Data Specialist` is not yet a recurrent exact title; the profile therefore remains `Emerging`.

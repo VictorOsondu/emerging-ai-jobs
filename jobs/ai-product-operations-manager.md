@@ -1,3 +1,17 @@
+---
+id: ai-product-operations-manager
+title: AI Product Operations Manager
+profile_type: role-profile
+role_origin: hybrid
+operating_model: ai-first
+maturity: formalising
+confidence: medium
+reviewed_at: 2026-08-08
+evidence:
+  - PRODOPS-01
+  - PRODOPS-02
+---
+
 # AI Product Operations Manager
 
 ## Role Summary
@@ -8,9 +22,11 @@ An AI Product Operations Manager builds the operating layer around AI products: 
 
 AI products behave less predictably than traditional software features. Product teams need operational discipline around evaluation, monitoring, human review, customer feedback, model changes, and quality regressions.
 
-## Maturity
+## Classification
 
-- Status: Formalising
+- Role origin: Hybrid
+- Operating model: AI-first
+- Maturity: Formalising
 - Confidence: Medium
 - Source signal: Product-operations roles now recur at AI companies, although the `AI Product Operations Manager` title is not yet consistent.
 
