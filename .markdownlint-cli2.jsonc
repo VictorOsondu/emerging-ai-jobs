@@ -4,6 +4,11 @@
     "MD013": false,
     "MD022": false,
     "MD024": { "siblings_only": true },
+    // Every profile carries `title:` in front matter and an H1 in the body.
+    // MD025 counts the front-matter field as a title by default, so it reads
+    // the H1 as a duplicate. Clearing the pattern keeps the rule guarding
+    // against genuine second H1s.
+    "MD025": { "front_matter_title": "" },
     "MD032": false,
     "MD033": false,
     "MD036": false,
