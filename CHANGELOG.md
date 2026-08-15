@@ -2,6 +2,13 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.4.0] - 2026-08-15
+
+### Added
+
+- Forward-Deployed AI Engineer role profile at `High` confidence, backed by three current exact-title postings from Cohere, Cursor, and Mistral with archive links.
+- First published playbook: AI Evaluation Specialist, following the playbook standard.
+
 ## [0.3.2] - 2026-08-15
 
 ### Added

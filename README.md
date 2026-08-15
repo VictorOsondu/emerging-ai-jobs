@@ -85,6 +85,7 @@ These dimensions are independent. Read [METHODOLOGY.md](METHODOLOGY.md) for incl
 | AI Product Operations Manager | Hybrid | AI-first | Formalising | Medium | [View](jobs/ai-product-operations-manager.md) |
 | AI Risk and Assurance Analyst | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-risk-and-assurance-analyst.md) |
 | AI Transformation Manager | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-transformation-manager.md) |
+| Forward-Deployed AI Engineer | Hybrid | AI-first | Formalising | High | [View](jobs/forward-deployed-ai-engineer.md) |
 | Human-AI Workflow Designer | AI-native | AI-first | Emerging | Early signal | [View](jobs/human-ai-workflow-designer.md) |
 | Prompt Engineer | AI-native | AI-first | Formalising | Medium | [View](jobs/prompt-engineer.md) |
 | Synthetic Data Specialist | Hybrid | AI-first | Emerging | Medium | [View](jobs/synthetic-data-specialist.md) |
@@ -102,13 +103,11 @@ These dimensions are independent. Read [METHODOLOGY.md](METHODOLOGY.md) for incl
 
 Playbooks come after the role catalogue. A profile answers "what is this role?" A playbook goes further: how do you become useful in it, hire for it, or stand up the function?
 
-The first playbooks should cover the roles with the strongest public signal:
+The first published playbook covers the role with the strongest current public signal:
 
-- AI Governance Lead
-- AI Evaluation Specialist
-- AI Transformation Manager
+- [AI Evaluation Specialist](playbooks/ai-evaluation-specialist.md)
 
-See [playbooks/README.md](playbooks/README.md) for the playbook standard.
+Next candidates are AI Governance Lead and AI Transformation Manager. See [playbooks/README.md](playbooks/README.md) for the playbook standard.
 
 ## Contribution standard
 

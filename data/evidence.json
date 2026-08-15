@@ -525,6 +525,54 @@
       "supports": "AI coding tools and asynchronous agents used as a primary development and review workflow rather than occasional assistance."
     },
     {
+      "id": "FDE-01",
+      "role_ids": [
+        "forward-deployed-ai-engineer"
+      ],
+      "publisher": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "archive_url": "https://web.archive.org/web/20260703180149/https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Exact title; owning the design, build, and deployment of LLM-powered agentic workflows inside client engineering teams in regulated sectors, bridging the vendor platform and customer systems."
+    },
+    {
+      "id": "FDE-02",
+      "role_ids": [
+        "forward-deployed-ai-engineer"
+      ],
+      "publisher": "Cursor",
+      "title": "Forward Deployed Engineer",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "archive_url": "https://web.archive.org/web/20260426134919/https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Exact title; embedding with customer engineering teams to discover bottlenecks, ship AI-powered workflows end to end, and own production quality including tracing, evals, monitoring, model-behaviour debugging, and latency and cost trade-offs."
+    },
+    {
+      "id": "FDE-03",
+      "role_ids": [
+        "forward-deployed-ai-engineer"
+      ],
+      "publisher": "Mistral",
+      "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+      "archive_url": "https://web.archive.org/web/20260815093922/https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Exact title including the AI variant; leading enterprise AI solution delivery hands-on across the customer lifecycle from pre-sales through post-implementation, with seniority structure evidence for the role family."
+    },
+    {
       "id": "SUPPORT-03",
       "role_ids": [
         "customer-support-specialist-ai-first"

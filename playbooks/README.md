@@ -19,10 +19,13 @@ Each playbook should include:
 - hiring red flags
 - how the role changes by company size
 
-## First Playbook Candidates
+## Published Playbooks
+
+- [AI Evaluation Specialist](ai-evaluation-specialist.md) — the role with the strongest current public signal after the 2026-08-15 evidence audit.
+
+## Next Playbook Candidates
 
 - AI Governance Lead
-- AI Evaluation Specialist
 - AI Transformation Manager
 
 ## Evidence Rule
