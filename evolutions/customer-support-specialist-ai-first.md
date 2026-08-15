@@ -5,8 +5,8 @@ profile_type: occupation-evolution
 role_origin: existing
 operating_model: agent-supervised
 maturity: formalising
-confidence: high
-reviewed_at: 2026-08-08
+confidence: medium
+reviewed_at: 2026-08-15
 evidence:
   - SUPPORT-01
   - SUPPORT-02
@@ -27,7 +27,7 @@ Support agents can now retrieve account context, classify intent, draft response
 - Role origin: Existing
 - Operating model: Agent-supervised
 - Maturity: Formalising
-- Confidence: High
+- Confidence: Medium
 
 ## Evolution of the Workflow
 
@@ -103,3 +103,4 @@ Begin with AI summaries, routing, and suggested replies while measuring errors. 
 
 - Hedra advertised an AI-first support role operating production routing, escalation, knowledge, and evaluation workflows while serving as the human escalation point ([SUPPORT-01](../sources.md#evidence-register)).
 - XYZ Reality advertised an established support title responsible for AI-assisted triage, drafting, automation, analytics, escalation, and service quality ([SUPPORT-02](../sources.md#evidence-register)).
+- Both postings closed between 2026-08-08 and 2026-08-15 and are retained as historical observations; no posting in this profile is currently verifiable as open.

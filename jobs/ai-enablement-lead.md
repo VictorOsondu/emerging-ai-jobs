@@ -6,7 +6,7 @@ role_origin: hybrid
 operating_model: ai-augmented
 maturity: formalising
 confidence: high
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - ENABLE-01
   - ENABLE-02

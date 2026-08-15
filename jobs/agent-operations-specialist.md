@@ -5,8 +5,8 @@ profile_type: role-profile
 role_origin: ai-native
 operating_model: agent-supervised
 maturity: emerging
-confidence: medium
-reviewed_at: 2026-08-08
+confidence: early-signal
+reviewed_at: 2026-08-15
 evidence:
   - AGENT-01
 ---
@@ -26,8 +26,8 @@ AI agents are moving from demos into workflow automation. Once agents touch real
 - Role origin: AI-native
 - Operating model: Agent-supervised
 - Maturity: Emerging
-- Confidence: Medium
-- Source signal: One current exact-title posting plus related responsibilities in AI operations, product operations, and automation roles.
+- Confidence: Early signal
+- Source signal: One exact-title posting, now closed, plus related responsibilities in AI operations, product operations, and automation roles.
 
 ## Core Responsibilities
 
@@ -97,5 +97,5 @@ AI agents are moving from demos into workflow automation. Once agents touch real
 
 ## Public Signals
 
-- Delfa's current `AI Agent Operations Specialist` posting covers agent review, configuration, pre-release testing, monitoring of live interactions, manual patches, and escalation logic ([AGENT-01](../sources.md#evidence-register)).
-- One exact-title posting is enough to move this beyond a purely speculative signal, but not enough to treat the title as broadly formalised.
+- Delfa's `AI Agent Operations Specialist` posting, observed on 2026-07-25 and closed by 2026-08-15, covered agent review, configuration, pre-release testing, monitoring of live interactions, manual patches, and escalation logic ([AGENT-01](../sources.md#evidence-register)).
+- One exact-title posting is enough to move this beyond a purely speculative signal, but with that posting now closed the title cannot yet be treated as recurrent.

@@ -6,7 +6,7 @@ role_origin: hybrid
 operating_model: ai-first
 maturity: emerging
 confidence: medium
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - SYNTH-01
   - SYNTH-02

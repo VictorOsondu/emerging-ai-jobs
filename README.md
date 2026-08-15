@@ -1,6 +1,6 @@
 # Emerging AI Jobs
 
-![Last updated](https://img.shields.io/badge/last%20updated-2026--08--08-00d4aa)
+![Last updated](https://img.shields.io/badge/last%20updated-2026--08--15-00d4aa)
 ![Status](https://img.shields.io/badge/status-evolving%20catalogue-1a1a2e)
 ![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
@@ -9,7 +9,7 @@ A curated catalogue of AI-native roles and established occupations being redesig
 
 This is not a jobs board, salary tracker, or hype list. It documents new responsibility bundles, changing workflows, human accountability, transition paths, and the strength of the public evidence.
 
-Last reviewed: 2026-08-08. See the [catalogue methodology](METHODOLOGY.md) and [sources and verification notes](sources.md).
+Last reviewed: 2026-08-15. See the [catalogue methodology](METHODOLOGY.md) and [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -78,24 +78,24 @@ These dimensions are independent. Read [METHODOLOGY.md](METHODOLOGY.md) for incl
 
 | Role | Origin | Operating model | Maturity | Confidence | Profile |
 | --- | --- | --- | --- | --- | --- |
-| Agent Operations Specialist | AI-native | Agent-supervised | Emerging | Medium | [View](jobs/agent-operations-specialist.md) |
+| Agent Operations Specialist | AI-native | Agent-supervised | Emerging | Early signal | [View](jobs/agent-operations-specialist.md) |
 | AI Enablement Lead | Hybrid | AI-augmented | Formalising | High | [View](jobs/ai-enablement-lead.md) |
 | AI Evaluation Specialist | AI-native | AI-first | Formalising | High | [View](jobs/ai-evaluation-specialist.md) |
-| AI Governance Lead | Hybrid | AI-augmented | Formalising | High | [View](jobs/ai-governance-lead.md) |
+| AI Governance Lead | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-governance-lead.md) |
 | AI Product Operations Manager | Hybrid | AI-first | Formalising | Medium | [View](jobs/ai-product-operations-manager.md) |
 | AI Risk and Assurance Analyst | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-risk-and-assurance-analyst.md) |
 | AI Transformation Manager | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-transformation-manager.md) |
 | Human-AI Workflow Designer | AI-native | AI-first | Emerging | Early signal | [View](jobs/human-ai-workflow-designer.md) |
-| Prompt Engineer | AI-native | AI-first | Formalising | High | [View](jobs/prompt-engineer.md) |
+| Prompt Engineer | AI-native | AI-first | Formalising | Medium | [View](jobs/prompt-engineer.md) |
 | Synthetic Data Specialist | Hybrid | AI-first | Emerging | Medium | [View](jobs/synthetic-data-specialist.md) |
 
 ### Evolving Occupations
 
 | Role | Origin | Operating model | Maturity | Confidence | Profile |
 | --- | --- | --- | --- | --- | --- |
-| Customer Support Specialist | Existing | Agent-supervised | Formalising | High | [View](evolutions/customer-support-specialist-ai-first.md) |
+| Customer Support Specialist | Existing | Agent-supervised | Formalising | Medium | [View](evolutions/customer-support-specialist-ai-first.md) |
 | Research Analyst | Existing | AI-augmented | Formalising | Medium | [View](evolutions/research-analyst-ai-augmented.md) |
-| Software Engineer | Existing | AI-first | Formalising | High | [View](evolutions/software-engineer-ai-first.md) |
+| Software Engineer | Existing | AI-first | Formalising | Medium | [View](evolutions/software-engineer-ai-first.md) |
 <!-- catalogue:end -->
 
 ## Emerging job playbooks

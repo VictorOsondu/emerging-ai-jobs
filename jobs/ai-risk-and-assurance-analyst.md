@@ -6,7 +6,7 @@ role_origin: hybrid
 operating_model: ai-augmented
 maturity: formalising
 confidence: medium
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - ASSURE-01
   - ASSURE-02

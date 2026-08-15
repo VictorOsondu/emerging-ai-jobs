@@ -50,7 +50,8 @@ function evidenceTable() {
       const profile = profileById.get(id);
       return `[${profile.metadata.title}](${profile.relativePath})`;
     }).join(", ");
-    return `| ${record.id} | ${roles} | ${record.publisher}, [${record.title}](${record.url}) | ${typeLabels[record.evidence_type] ?? record.evidence_type} | ${record.geography} | ${displayValue(record.status)} | ${record.last_verified_at} | ${record.supports} |`;
+    const archive = record.archive_url ? ` ([archive](${record.archive_url}))` : "";
+    return `| ${record.id} | ${roles} | ${record.publisher}, [${record.title}](${record.url})${archive} | ${typeLabels[record.evidence_type] ?? record.evidence_type} | ${record.geography} | ${displayValue(record.status)} | ${record.last_verified_at} | ${record.supports} |`;
   });
   return [header, ...rows].join("\n");
 }

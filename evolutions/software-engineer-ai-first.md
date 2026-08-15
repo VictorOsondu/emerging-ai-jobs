@@ -5,8 +5,8 @@ profile_type: occupation-evolution
 role_origin: existing
 operating_model: ai-first
 maturity: formalising
-confidence: high
-reviewed_at: 2026-08-08
+confidence: medium
+reviewed_at: 2026-08-15
 evidence:
   - DEV-01
   - DEV-02
@@ -27,7 +27,7 @@ Coding agents can now inspect repositories, edit multiple files, run tools, and 
 - Role origin: Existing
 - Operating model: AI-first
 - Maturity: Formalising
-- Confidence: High
+- Confidence: Medium
 
 ## Evolution of the Workflow
 
@@ -101,4 +101,5 @@ Start by delegating bounded maintenance tasks with strong tests. Progress to par
 ## Public Signals
 
 - Scribd advertised a staff engineering role responsible for shaping an organisation in which engineers and coding agents write, review, and ship software together ([DEV-01](../sources.md#evidence-register)).
-- Allocate advertised an established software-engineering title where agentic development and code review are primary workflow expectations rather than occasional assistance ([DEV-02](../sources.md#evidence-register)).
+- Allocate currently advertises an established software-engineering title where agentic development and code review are primary workflow expectations rather than occasional assistance ([DEV-02](../sources.md#evidence-register)).
+- The Scribd posting closed between 2026-08-08 and 2026-08-15 and is retained as a historical observation.

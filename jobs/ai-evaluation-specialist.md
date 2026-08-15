@@ -6,7 +6,7 @@ role_origin: ai-native
 operating_model: ai-first
 maturity: formalising
 confidence: high
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - EVAL-01
   - EVAL-02

@@ -5,8 +5,8 @@ profile_type: role-profile
 role_origin: ai-native
 operating_model: ai-first
 maturity: formalising
-confidence: high
-reviewed_at: 2026-08-08
+confidence: medium
+reviewed_at: 2026-08-15
 evidence:
   - PROMPT-01
   - PROMPT-02
@@ -28,8 +28,8 @@ Language models made natural-language instructions part of the production surfac
 - Role origin: AI-native
 - Operating model: AI-first
 - Maturity: Formalising
-- Confidence: High
-- Source signal: Multiple current exact-title postings, with responsibilities increasingly connected to evaluation, engineering, and workflows.
+- Confidence: Medium
+- Source signal: Recurring exact-title postings, with responsibilities increasingly connected to evaluation, engineering, and workflows; one posting is currently verifiable as open.
 
 ## Core Responsibilities
 
@@ -98,6 +98,7 @@ Language models made natural-language instructions part of the production surfac
 
 ## Public Signals
 
-- MCI and Nabla currently advertise exact-title roles covering prompt design, testing, versioning, evaluation, agents, and workflow integration ([PROMPT-02 and PROMPT-03](../sources.md#evidence-register)).
-- An earlier Accenture source could not be reverified and is retained as an unavailable historical observation rather than current evidence ([PROMPT-01](../sources.md#evidence-register)).
-- The title is therefore a strong current signal, although production versions increasingly combine prompting with evaluation, retrieval, engineering, or workflow design.
+- MCI currently advertises an exact-title role covering prompt testing across support, automation, knowledge, and productivity use cases ([PROMPT-02](../sources.md#evidence-register)).
+- Nabla advertised an exact-title role covering production prompt design, versioning, failure analysis, and evaluation frameworks; the posting closed between 2026-08-08 and 2026-08-15 and is retained as a historical observation ([PROMPT-03](../sources.md#evidence-register)).
+- An earlier Accenture posting now redirects to a job-search page and is retained as a closed historical observation rather than current evidence ([PROMPT-01](../sources.md#evidence-register)).
+- The title remains a recurrent signal, although production versions increasingly combine prompting with evaluation, retrieval, engineering, or workflow design.

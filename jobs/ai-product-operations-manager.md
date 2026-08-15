@@ -6,7 +6,7 @@ role_origin: hybrid
 operating_model: ai-first
 maturity: formalising
 confidence: medium
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - PRODOPS-01
   - PRODOPS-02
@@ -97,5 +97,6 @@ AI products behave less predictably than traditional software features. Product 
 
 ## Public Signals
 
-- OpenAI and Mistral currently recruit Product Operations Managers for launch readiness, release cadence, feedback synthesis, cross-functional coordination, and AI-assisted internal systems ([PRODOPS-01 and PRODOPS-02](../sources.md#evidence-register)).
+- Mistral currently recruits a Product Operations Manager for launch readiness, release cadence, feedback synthesis, and cross-functional coordination ([PRODOPS-02](../sources.md#evidence-register)).
+- An earlier OpenAI Product Operations Manager posting closed between 2026-08-08 and 2026-08-15 and is retained as a historical observation ([PRODOPS-01](../sources.md#evidence-register)).
 - The work is recurrent enough to call the role family formalising, but the `AI Product Operations Manager` label remains inconsistent.

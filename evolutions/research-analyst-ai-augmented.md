@@ -6,7 +6,7 @@ role_origin: existing
 operating_model: ai-augmented
 maturity: formalising
 confidence: medium
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - RESEARCH-01
   - RESEARCH-02
@@ -101,6 +101,6 @@ Start with query expansion, code assistance, and bounded document comparison. Pr
 
 ## Public Signals
 
-- iwoca advertised a research analyst expected to use AI for data exploration, insight generation, and workflow improvement while maintaining accuracy and analytical rigour ([RESEARCH-01](../sources.md#evidence-register)).
+- iwoca advertised a research analyst expected to use AI for data exploration, insight generation, and workflow improvement while maintaining accuracy and analytical rigour; the posting closed between 2026-08-08 and 2026-08-15 ([RESEARCH-01](../sources.md#evidence-register)).
 - Too Good To Go advertised an analyst expected to use AI for code, repetitive analysis, validation, and productivity while retaining responsibility for assumptions, causality, and data quality; the posting has since closed ([RESEARCH-02](../sources.md#evidence-register)).
 - The observed market signal currently supports an augmented workflow. A fully agent-supervised research occupation remains a proposed next stage, not an established claim.

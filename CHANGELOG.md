@@ -2,6 +2,16 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.3.1] - 2026-08-15
+
+### Changed
+
+- Re-audited all 33 evidence records against live sources, job-board APIs, and the Wayback Machine.
+- Marked ten postings that closed since the previous audit as historical observations, including all previously current AI Governance Lead sources.
+- Downgraded confidence where current-signal rules require it: AI Governance Lead, Prompt Engineer, Customer Support Specialist, and Software Engineer to `Medium`; Agent Operations Specialist to `Early signal`.
+- Backfilled Wayback Machine archive links for evidence records and requested fresh snapshots for still-active sources.
+- Rendered archive links in the generated evidence register.
+
 ## [0.3.0] - 2026-08-08
 
 ### Added

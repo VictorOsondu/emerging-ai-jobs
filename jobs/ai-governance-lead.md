@@ -5,8 +5,8 @@ profile_type: role-profile
 role_origin: hybrid
 operating_model: ai-augmented
 maturity: formalising
-confidence: high
-reviewed_at: 2026-08-08
+confidence: medium
+reviewed_at: 2026-08-15
 evidence:
   - GOV-01
   - GOV-02
@@ -29,8 +29,8 @@ AI use has moved from isolated experimentation into enterprise workflows. Organi
 - Role origin: Hybrid
 - Operating model: AI-augmented
 - Maturity: Formalising
-- Confidence: High
-- Source signal: Multiple current job postings and governance frameworks point to this role shape.
+- Confidence: Medium
+- Source signal: Multiple recent exact-title postings and governance frameworks point to this role shape, although no exact-title posting is currently verifiable as open.
 
 ## Core Responsibilities
 
@@ -99,6 +99,6 @@ AI use has moved from isolated experimentation into enterprise workflows. Organi
 
 ## Public Signals
 
-- Reflection AI and First San Francisco Partners currently advertise exact-title roles spanning operational controls, decision rights, risk classification, audit evidence, and cross-functional governance ([GOV-03 and GOV-04](../sources.md#evidence-register)).
+- Reflection AI and First San Francisco Partners advertised exact-title roles spanning operational controls, decision rights, risk classification, audit evidence, and cross-functional governance; both postings closed between 2026-08-08 and 2026-08-15 and are retained as historical observations ([GOV-03 and GOV-04](../sources.md#evidence-register)).
 - The earlier Capgemini URL changed content and the Bupa page could not be reverified; both records remain visible but no longer support the current-confidence rating ([GOV-01 and GOV-02](../sources.md#evidence-register)).
 - NIST AI RMF, ISO/IEC 42001, the EU AI Act, and IAPP materials establish the broader management-system and professional context ([framework references](../sources.md#references)).

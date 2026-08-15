@@ -6,7 +6,7 @@ role_origin: ai-native
 operating_model: ai-first
 maturity: emerging
 confidence: early-signal
-reviewed_at: 2026-08-08
+reviewed_at: 2026-08-15
 evidence:
   - WORKFLOW-01
   - WORKFLOW-02
