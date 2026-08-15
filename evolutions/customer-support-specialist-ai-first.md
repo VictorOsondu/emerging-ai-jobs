@@ -10,6 +10,7 @@ reviewed_at: 2026-08-15
 evidence:
   - SUPPORT-01
   - SUPPORT-02
+  - SUPPORT-03
 ---
 
 # Customer Support Specialist: AI-First Evolution
@@ -103,4 +104,5 @@ Begin with AI summaries, routing, and suggested replies while measuring errors. 
 
 - Hedra advertised an AI-first support role operating production routing, escalation, knowledge, and evaluation workflows while serving as the human escalation point ([SUPPORT-01](../sources.md#evidence-register)).
 - XYZ Reality advertised an established support title responsible for AI-assisted triage, drafting, automation, analytics, escalation, and service quality ([SUPPORT-02](../sources.md#evidence-register)).
-- Both postings closed between 2026-08-08 and 2026-08-15 and are retained as historical observations; no posting in this profile is currently verifiable as open.
+- Both postings closed between 2026-08-08 and 2026-08-15 and are retained as historical observations.
+- OpenAI currently advertises AI Support Engineers who own complex-issue resolution and escalation while using automation, agents, and AI technology to transform how support operates at scale ([SUPPORT-03](../sources.md#evidence-register)).

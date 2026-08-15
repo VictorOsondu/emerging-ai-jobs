@@ -61,11 +61,19 @@ const targets = [
   { filename: "sources.md", section: "evidence", generated: evidenceTable() }
 ];
 
+const auditDate = evidenceData.last_audited_at;
+
+function syncDates(contents) {
+  return contents
+    .replace(/last%20updated-\d{4}--\d{2}--\d{2}/, `last%20updated-${auditDate.replaceAll("-", "--")}`)
+    .replace(/Last reviewed: \d{4}-\d{2}-\d{2}\./, `Last reviewed: ${auditDate}.`);
+}
+
 let stale = false;
 for (const target of targets) {
   const absolutePath = path.join(root, target.filename);
   const original = fs.readFileSync(absolutePath, "utf8");
-  const rendered = replaceGeneratedSection(original, target.section, target.generated);
+  const rendered = syncDates(replaceGeneratedSection(original, target.section, target.generated));
   if (rendered === original) continue;
   if (checkOnly) {
     console.error(`${target.filename} is not up to date; run node scripts/render-catalogue.mjs`);

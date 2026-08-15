@@ -11,6 +11,7 @@ evidence:
   - TRANS-01
   - TRANS-02
   - TRANS-03
+  - TRANS-04
 ---
 
 # AI Transformation Manager
@@ -102,6 +103,7 @@ Many organisations have executive AI interest but fragmented delivery. They need
 ## Public Signals
 
 - A current Capgemini posting uses an AI governance title but describes transformation work across portfolio definition, delivery orchestration, value realisation, risk, and executive reporting ([TRANS-03](../sources.md#evidence-register)).
+- Databricks currently advertises an AI Transformation Leader who co-creates AI transformation roadmaps with C-suite customers and carries them through deployment to value realisation; the context is vendor advisory rather than in-house transformation ([TRANS-04](../sources.md#evidence-register)).
 - Earlier WGSN and Pay.UK postings are retained as closed historical observations of the exact or closely matching title ([TRANS-01 and TRANS-02](../sources.md#evidence-register)).
 - GitHub's published programme-lead responsibilities independently support roadmap ownership, tool and policy coordination, change management, adoption metrics, and business-value reporting ([GitHub references](../sources.md#references)).
 - Current adjacent-title evidence plus two historical title observations support `Medium` confidence, not a claim that the title is standard across employers.

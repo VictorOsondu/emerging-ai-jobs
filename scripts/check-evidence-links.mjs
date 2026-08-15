@@ -46,6 +46,25 @@ for (let index = 0; index < active.length; index += concurrency) {
   }
 }
 
+const unarchived = active.filter((record) => !record.archive_url);
+for (const record of unarchived) {
+  try {
+    const response = await fetch(`https://web.archive.org/save/${record.url}`, {
+      redirect: "follow",
+      headers: { "user-agent": "emerging-ai-jobs-source-check/1.0" },
+      signal: AbortSignal.timeout(90_000)
+    });
+    const saved = /web\.archive\.org\/web\/\d{14}\//.test(response.url);
+    console.log(`ARCHIVE ${record.id} ${saved ? `snapshot requested: ${response.url}` : `save not confirmed (HTTP ${response.status})`}`);
+  } catch (error) {
+    console.log(`ARCHIVE ${record.id} save failed: ${error.message}`);
+  }
+  await new Promise((resolve) => setTimeout(resolve, 10_000));
+}
+if (unarchived.length) {
+  console.log(`${unarchived.length} active evidence source(s) have no archive_url; snapshots requested above need recording in data/evidence.json.`);
+}
+
 if (failures.length) {
   console.error(`\n${failures.length} active evidence source(s) require editorial review.`);
   process.exitCode = 1;

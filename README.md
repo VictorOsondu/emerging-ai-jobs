@@ -78,7 +78,7 @@ These dimensions are independent. Read [METHODOLOGY.md](METHODOLOGY.md) for incl
 
 | Role | Origin | Operating model | Maturity | Confidence | Profile |
 | --- | --- | --- | --- | --- | --- |
-| Agent Operations Specialist | AI-native | Agent-supervised | Emerging | Early signal | [View](jobs/agent-operations-specialist.md) |
+| Agent Operations Specialist | AI-native | Agent-supervised | Emerging | Medium | [View](jobs/agent-operations-specialist.md) |
 | AI Enablement Lead | Hybrid | AI-augmented | Formalising | High | [View](jobs/ai-enablement-lead.md) |
 | AI Evaluation Specialist | AI-native | AI-first | Formalising | High | [View](jobs/ai-evaluation-specialist.md) |
 | AI Governance Lead | Hybrid | AI-augmented | Formalising | Medium | [View](jobs/ai-governance-lead.md) |

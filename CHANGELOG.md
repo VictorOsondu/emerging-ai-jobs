@@ -2,6 +2,20 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.3.2] - 2026-08-15
+
+### Added
+
+- Five new evidence records verified against live sources with archive links: Reflection AI risk-and-governance and NIST AI RMF for the governance and assurance roles, Decagon agent development for Agent Operations Specialist, Databricks AI transformation for AI Transformation Manager, and OpenAI AI support for the customer-support evolution.
+- First standards-based evidence record (NIST AI RMF 1.0), diluting the job-posting-only evidence base.
+
+### Changed
+
+- Restored Agent Operations Specialist to `Medium` confidence on a current closely matching signal.
+- Scheduled evidence link checks now file or update a GitHub issue on failure instead of failing silently.
+- The weekly check requests Wayback snapshots for active sources that lack an archive link.
+- README badge and review dates are now derived from the evidence register's audit date during rendering.
+
 ## [0.3.1] - 2026-08-15
 
 ### Changed

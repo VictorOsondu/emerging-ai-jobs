@@ -10,6 +10,8 @@ reviewed_at: 2026-08-15
 evidence:
   - ASSURE-01
   - ASSURE-02
+  - GOV-05
+  - GOV-06
 ---
 
 # AI Risk and Assurance Analyst
@@ -99,3 +101,5 @@ AI governance creates evidence requirements: inventories, model cards, risk asse
 
 - An EY responsible-AI role observed in July 2026 covered AI reviews, risk assessments, control evidence, accountability documentation, and remediation; the posting has since closed ([ASSURE-01](../sources.md#evidence-register)).
 - UK government-commissioned market research identifies AI assurance leads, consultants, managers, and related role families, while noting that job descriptions vary ([ASSURE-02](../sources.md#evidence-register)).
+- Reflection AI currently advertises a Manager of Risk & Governance whose remit — risk measurement, control architecture, reporting, and external representation — overlaps materially with this role family ([GOV-05](../sources.md#evidence-register)).
+- NIST's AI Risk Management Framework describes the map, measure, and manage duties that AI risk and assurance work operationalises ([GOV-06](../sources.md#evidence-register)).

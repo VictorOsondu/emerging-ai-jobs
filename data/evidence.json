@@ -67,6 +67,34 @@
       "supports": "Historical exact-title observation covering policy authority, decision rights, accountability frameworks, governance forums, and enterprise risk classification; the posting closed by 2026-08-15."
     },
     {
+      "id": "GOV-05",
+      "role_ids": ["ai-governance-lead", "ai-risk-and-assurance-analyst"],
+      "publisher": "Reflection AI",
+      "title": "Manager of Risk & Governance",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/reflectionai/1fcb30d7-30de-4dd6-8262-a5efb46e4585",
+      "archive_url": "https://web.archive.org/web/20260729091735/https://jobs.ashbyhq.com/reflectionai/1fcb30d7-30de-4dd6-8262-a5efb46e4585",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Closely matching title at an AI lab; enterprise risk framework design, control architecture, policy, risk measurement and reporting, and regulator-facing representation, positioned at the intersection of risk, compliance, technology, and AI safety."
+    },
+    {
+      "id": "GOV-06",
+      "role_ids": ["ai-governance-lead", "ai-risk-and-assurance-analyst"],
+      "publisher": "NIST",
+      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "evidence_type": "primary-public-guidance",
+      "geography": "United States",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+      "archive_url": "https://web.archive.org/web/20260814102301/https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Standards evidence that organisations need named accountability for AI governance, risk measurement, and management functions; the framework's govern, map, measure, and manage duties describe the responsibility bundles these roles operationalise, not a hiring signal."
+    },
+    {
       "id": "EVAL-01",
       "role_ids": [
         "ai-evaluation-specialist"
@@ -163,6 +191,20 @@
       "supports": "A later observation at a mutable URL; despite its title, the work centres AI portfolio definition, delivery orchestration, value realisation, risk, and executive reporting."
     },
     {
+      "id": "TRANS-04",
+      "role_ids": ["ai-transformation-manager"],
+      "publisher": "Databricks",
+      "title": "AI Transformation Leader",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://www.databricks.com/company/careers/exec-sales/ai-transformation-leader-8688812002?gh_jid=8688812002",
+      "archive_url": "https://web.archive.org/web/20260815092415/https://www.databricks.com/company/careers/exec-sales/ai-transformation-leader-8688812002?gh_jid=8688812002",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Exact role-family title in a vendor advisory context; AI transformation roadmaps co-created with C-suite customers, deployment through to value realisation, operating models, and change leadership."
+    },
+    {
       "id": "AGENT-01",
       "role_ids": [
         "agent-operations-specialist"
@@ -177,6 +219,22 @@
       "last_verified_at": "2026-08-15",
       "status": "closed",
       "supports": "Historical exact-title observation covering agent review, testing, configuration, monitoring, patches, and escalation logic; the posting closed by 2026-08-15."
+    },
+    {
+      "id": "AGENT-02",
+      "role_ids": [
+        "agent-operations-specialist"
+      ],
+      "publisher": "Decagon",
+      "title": "Agent Development Manager",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/decagon/476e3152-3f9a-48ea-89bd-30516bccead7",
+      "archive_url": "https://web.archive.org/web/20260217124047/https://jobs.ashbyhq.com/decagon/476e3152-3f9a-48ea-89bd-30516bccead7",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "Closely matching title at an agent-platform company; owning enterprise AI-agent builds, deployment playbooks, configuration to customer workflows, continuous improvement of live agents, and cross-functional rollout; build-side emphasis rather than run-state monitoring."
     },
     {
       "id": "PRODOPS-01",
@@ -465,6 +523,22 @@
       "last_verified_at": "2026-08-15",
       "status": "active",
       "supports": "AI coding tools and asynchronous agents used as a primary development and review workflow rather than occasional assistance."
+    },
+    {
+      "id": "SUPPORT-03",
+      "role_ids": [
+        "customer-support-specialist-ai-first"
+      ],
+      "publisher": "OpenAI",
+      "title": "AI Support Engineer",
+      "evidence_type": "primary-job-posting",
+      "geography": "United States",
+      "url": "https://jobs.ashbyhq.com/openai/1a979fd4-1bce-484e-a416-aed2810677a6",
+      "archive_url": "https://web.archive.org/web/20260606202046/https://jobs.ashbyhq.com/openai/1a979fd4-1bce-484e-a416-aed2810677a6",
+      "observed_at": "2026-08-15",
+      "last_verified_at": "2026-08-15",
+      "status": "active",
+      "supports": "AI-titled support role; complex-issue resolution and escalation ownership while using automation, agents, and AI technology to transform how support operates at scale."
     },
     {
       "id": "SUPPORT-01",

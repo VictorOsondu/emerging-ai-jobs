@@ -12,6 +12,8 @@ evidence:
   - GOV-02
   - GOV-03
   - GOV-04
+  - GOV-05
+  - GOV-06
 ---
 
 # AI Governance Lead
@@ -100,5 +102,7 @@ AI use has moved from isolated experimentation into enterprise workflows. Organi
 ## Public Signals
 
 - Reflection AI and First San Francisco Partners advertised exact-title roles spanning operational controls, decision rights, risk classification, audit evidence, and cross-functional governance; both postings closed between 2026-08-08 and 2026-08-15 and are retained as historical observations ([GOV-03 and GOV-04](../sources.md#evidence-register)).
+- Reflection AI currently advertises a Manager of Risk & Governance covering enterprise risk frameworks, control architecture, policy, and regulator-facing reporting at the intersection of risk, compliance, and AI safety — a closely matching successor to its earlier exact-title posting ([GOV-05](../sources.md#evidence-register)).
+- NIST's AI Risk Management Framework independently describes the govern, map, measure, and manage duties this role operationalises; standards evidence supports the responsibility bundle rather than hiring volume ([GOV-06](../sources.md#evidence-register)).
 - The earlier Capgemini URL changed content and the Bupa page could not be reverified; both records remain visible but no longer support the current-confidence rating ([GOV-01 and GOV-02](../sources.md#evidence-register)).
 - NIST AI RMF, ISO/IEC 42001, the EU AI Act, and IAPP materials establish the broader management-system and professional context ([framework references](../sources.md#references)).
