@@ -2,6 +2,16 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.4.1] - 2026-09-26
+
+### Changed
+
+- Marked three postings closed after the scheduled link check found them gone: Databricks AI Transformation Leader (TRANS-04), Mesh AI Enablement Lead (ENABLE-03), and Hyphen Connect Synthetic Data Engineer (SYNTH-02). Archive links retained; profile text no longer describes them as current.
+
+### Added
+
+- ThreatAware AI Enablement Lead (ENABLE-06, United Kingdom) as a current exact-title posting with an archive link, keeping AI Enablement Lead at `High` confidence on two independent active sources.
+
 ## [0.4.0] - 2026-08-15
 
 ### Added

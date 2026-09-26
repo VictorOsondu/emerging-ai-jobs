@@ -13,6 +13,7 @@ evidence:
   - ENABLE-03
   - ENABLE-04
   - ENABLE-05
+  - ENABLE-06
 ---
 
 # AI Enablement Lead
@@ -103,6 +104,6 @@ Tool access alone does not create adoption. Organisations need role-relevant exa
 
 ## Public Signals
 
-- Mesh and Ridgeline currently advertise AI enablement roles spanning enterprise capability building, workflow adoption, implementation, change management, and workforce transformation ([ENABLE-03 and ENABLE-05](../sources.md#evidence-register)).
-- Earlier HSBC, IANS, and Tanium postings are retained as closed historical observations ([ENABLE-01, ENABLE-02, and ENABLE-04](../sources.md#evidence-register)).
+- Ridgeline and ThreatAware currently advertise AI enablement roles spanning workforce transformation, learning systems, workflow discovery, building AI tools and automations, and helping teams find AI opportunities themselves ([ENABLE-05 and ENABLE-06](../sources.md#evidence-register)).
+- Earlier HSBC, IANS, Tanium, and Mesh postings are retained as closed historical observations ([ENABLE-01, ENABLE-02, ENABLE-04, and ENABLE-03](../sources.md#evidence-register)).
 - GitHub's published programme describes the supporting responsibility bundle: learning pathways, office hours, advocates, communities, policy coordination, adoption measurement, and success-story amplification ([GitHub references](../sources.md#references)).

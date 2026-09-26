@@ -200,9 +200,9 @@
       "url": "https://www.databricks.com/company/careers/exec-sales/ai-transformation-leader-8688812002?gh_jid=8688812002",
       "archive_url": "https://web.archive.org/web/20260815092415/https://www.databricks.com/company/careers/exec-sales/ai-transformation-leader-8688812002?gh_jid=8688812002",
       "observed_at": "2026-08-15",
-      "last_verified_at": "2026-08-15",
-      "status": "active",
-      "supports": "Exact role-family title in a vendor advisory context; AI transformation roadmaps co-created with C-suite customers, deployment through to value realisation, operating models, and change leadership."
+      "last_verified_at": "2026-09-26",
+      "status": "closed",
+      "supports": "Exact role-family title in a vendor advisory context; AI transformation roadmaps co-created with C-suite customers, deployment through to value realisation, operating models, and change leadership; the posting closed by 2026-09-26, archived copy retained."
     },
     {
       "id": "AGENT-01",
@@ -344,9 +344,9 @@
       "url": "https://job-boards.greenhouse.io/mesh/jobs/5179249008",
       "archive_url": "https://web.archive.org/web/20260727154927/https://job-boards.greenhouse.io/mesh/jobs/5179249008",
       "observed_at": "2026-08-08",
-      "last_verified_at": "2026-08-15",
-      "status": "active",
-      "supports": "Exact title; workflow discovery, AI automation, implementation, adoption, and measurement."
+      "last_verified_at": "2026-09-26",
+      "status": "closed",
+      "supports": "Exact title; workflow discovery, AI automation, implementation, adoption, and measurement; the posting closed by 2026-09-26, archived copy retained."
     },
     {
       "id": "ENABLE-04",
@@ -379,6 +379,22 @@
       "last_verified_at": "2026-08-15",
       "status": "active",
       "supports": "Exact role-family title; workforce transformation, learning systems, functional workflow redesign, adoption, and accountability."
+    },
+    {
+      "id": "ENABLE-06",
+      "role_ids": [
+        "ai-enablement-lead"
+      ],
+      "publisher": "ThreatAware",
+      "title": "AI Enablement Lead",
+      "evidence_type": "primary-job-posting",
+      "geography": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/threataware/7d1c43a8-f683-4835-87ab-92579a2818da",
+      "archive_url": "https://web.archive.org/web/20260926045457/https://jobs.ashbyhq.com/threataware/7d1c43a8-f683-4835-87ab-92579a2818da",
+      "observed_at": "2026-09-26",
+      "last_verified_at": "2026-09-26",
+      "status": "active",
+      "supports": "Exact title; cross-functional workflow discovery, building AI tools and automations, capability building so teams spot AI opportunities themselves, and practical usage standards."
     },
     {
       "id": "WORKFLOW-01",
@@ -440,9 +456,9 @@
       "url": "https://job-boards.greenhouse.io/hyphenconnect/jobs/5120020007",
       "archive_url": "https://web.archive.org/web/20260815085456/https://job-boards.greenhouse.io/hyphenconnect/jobs/5120020007",
       "observed_at": "2026-07-25",
-      "last_verified_at": "2026-08-15",
-      "status": "active",
-      "supports": "Generation pipelines, quality scoring, and bias mitigation."
+      "last_verified_at": "2026-09-26",
+      "status": "closed",
+      "supports": "Generation pipelines, quality scoring, and bias mitigation; the posting closed by 2026-09-26, archived copy retained."
     },
     {
       "id": "PROMPT-01",

@@ -97,6 +97,6 @@ AI teams need data that is useful, safe, representative, and available. Syntheti
 
 ## Public Signals
 
-- Hyphen Connect currently advertises a synthetic-data engineering role covering generation pipelines, quality scoring, and bias mitigation ([SYNTH-02](../sources.md#evidence-register)).
+- Hyphen Connect advertised a synthetic-data engineering role (closed by 2026-09-26, archived) covering generation pipelines, quality scoring, and bias mitigation ([SYNTH-02](../sources.md#evidence-register)).
 - Lila Sciences' earlier research-engineering posting is retained as a closed historical observation covering synthetic-data strategy, evaluation, standards, and documentation ([SYNTH-01](../sources.md#evidence-register)).
 - The responsibility bundle is real, but `Synthetic Data Specialist` is not yet a recurrent exact title; the profile therefore remains `Emerging`.
